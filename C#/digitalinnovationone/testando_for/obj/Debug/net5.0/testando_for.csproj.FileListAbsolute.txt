@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\C#\digitalinnovationone\testando_for\bin\Debug\net5.0\testando_for.exe
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\C#\digitalinnovationone\testando_for\bin\Debug\net5.0\testando_for.deps.json
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\C#\digitalinnovationone\testando_for\bin\Debug\net5.0\testando_for.runtimeconfig.json
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\C#\digitalinnovationone\testando_for\bin\Debug\net5.0\testando_for.runtimeconfig.dev.json
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\C#\digitalinnovationone\testando_for\bin\Debug\net5.0\testando_for.dll
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\C#\digitalinnovationone\testando_for\bin\Debug\net5.0\ref\testando_for.dll
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\C#\digitalinnovationone\testando_for\bin\Debug\net5.0\testando_for.pdb
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\C#\digitalinnovationone\testando_for\obj\Debug\net5.0\testando_for.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\C#\digitalinnovationone\testando_for\obj\Debug\net5.0\testando_for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\C#\digitalinnovationone\testando_for\obj\Debug\net5.0\testando_for.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\C#\digitalinnovationone\testando_for\obj\Debug\net5.0\testando_for.AssemblyInfo.cs
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\C#\digitalinnovationone\testando_for\obj\Debug\net5.0\testando_for.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\C#\digitalinnovationone\testando_for\obj\Debug\net5.0\testando_for.dll
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\C#\digitalinnovationone\testando_for\obj\Debug\net5.0\ref\testando_for.dll
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\C#\digitalinnovationone\testando_for\obj\Debug\net5.0\testando_for.pdb
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\C#\digitalinnovationone\testando_for\obj\Debug\net5.0\testando_for.genruntimeconfig.cache
