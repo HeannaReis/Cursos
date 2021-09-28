@@ -1,0 +1,112 @@
+:root {
+    --red: #e50914;
+    --black: #141414;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/*elementos base*/
+body {
+    background: var(--black);
+    font-family: 'Trebuchet MS', Times, serif;
+    color: white
+}
+
+header .container {
+    display: flex;
+	flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 40px;
+	
+}
+
+.logo {
+    margin-left: 5px;
+    color: var(--red);
+    font-family: 'Arial black', Times;
+    font-size: 40px;
+}
+
+header nav a {
+    text-decoration: none;
+    color: #AAA;
+    margin-right: 20px;
+}
+
+header nav a:hover {
+    color: #fff;
+}
+
+/* filme principal */
+
+.filme-principal {
+    font-size: 16px;
+    background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(../img/black-clover-3.jpeg);
+	
+    height: 500px;
+    background-size: cover;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.descricao {
+    margin-top: 10px;
+    margin-bottom: 40px;
+	margin-left: 20px;
+}
+
+.titulo {
+    font-size: 40px;
+    margin-top: 15%;
+	font-family: 'Trebuchet MS', Arial, sans-serif;
+	margin-left: 20px;
+}
+
+.botoes {
+    margin-top: 40px;
+	margin-left: 20px;
+    
+}
+
+.botao {
+    background-color: rgba(0, 0, 0, 0.5);
+    border: none;
+    color: #fff;
+    padding: 15px;
+    border-radius: 8px;
+    margin-right: 20px;
+    cursor: pointer;
+    text-transform: uppercase;
+    transition: 0.3s ease all;
+}
+
+.botao i {
+    margin-right: 10px;
+}
+
+.botao:hover {
+    background-color: #fff;
+    color: #000;
+}
+
+.box-filme {
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
+.carrossel-filmes {
+    margin-top: 20px;
+}
+  .box-filme:hover {
+    border: 2px solid white;
+    cursor: pointer;
+  }
