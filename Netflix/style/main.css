@@ -16,12 +16,12 @@ body{
    color:white;
 }
 
-
 header .container{
     display:flex;
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
+	margin-left: 40px;
     
 }
 
@@ -74,7 +74,7 @@ header nav a:hover{
 
 .filme-principal .titulo{
     margin-top: 15%;
-    font-size: 40px;
+    font-size: 50px;
     font-family: 'Trebuchet MS', Arial, sans-serif;
 }
 
@@ -116,7 +116,6 @@ header nav a:hover{
     cursor: pointer;
 }
 
-
 .carrosel-filmes{
     margin-top:5px;
 }
@@ -132,21 +131,3 @@ header nav a:hover{
     border: 2px solid white;
     cursor: pointer;
   }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
