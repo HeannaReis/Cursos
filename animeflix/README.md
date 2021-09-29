@@ -1,21 +1,16 @@
-# Desafio Netflix - Digital Innovation One
+# Levantamento de Requisitos - Plataforma de Streamer de animes baseada no NETFLIX
 
-Esta é uma solução para o desafio da Digital Innovation One. O desafio consiste em criar um sistema baseado em um dos maiores streamers do mundo a Netflix.
+## Técnicas utilizadas: 
+### Entrevista com Cliente
+### Questionários
+### Prototipação
 
-### O desafio
 
-Os usuários devem ser capazes de criar:
+### Protótipo - Parte da Plataforma seleção de filmes
 
-- Criar um layout baseado na Netflix
+•	Sessão 2 - Descrição geral do Sistema: apresenta uma visão geral do sistema, define qual é o seu escopo e descreve seus atores.
+•	Sessão 3 – Requisitos Funcionais (Caso de Uso): Especifica brevemente os casos de uso do sistema.
+•	Sessão 4 – Requisitos Não Funcionais: Cita e explica os requisitos não funcionais do sistema.
+•	Sessão 5 – Regra de negócio - Arquitetura do Sistema (protótipo parcial).
+•	Sessão 6 - Restrições.
 
-- Criar um sistema de carrossel.
-
-- Criar uma página responsiva
-
-### Construído com:
-
-- Marcação HTML5 semântica
-- Propriedades personalizadas CSS
-- Flexbox
-- Javascript
-- Plugin jQuery owl.carousel.js
