@@ -1,0 +1,12 @@
+C:\Users\User\Documents\SharpDevelop Projects\Equacao-segundo-grau\caracteres_progressivos\obj\Debug\caracteres_progressivos.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\SharpDevelop Projects\Equacao-segundo-grau\caracteres_progressivos\bin\Debug\caracteres_progressivos.exe.config
+C:\Users\User\Documents\SharpDevelop Projects\Equacao-segundo-grau\caracteres_progressivos\bin\Debug\caracteres_progressivos.exe
+C:\Users\User\Documents\SharpDevelop Projects\Equacao-segundo-grau\caracteres_progressivos\bin\Debug\caracteres_progressivos.pdb
+C:\Users\User\Documents\SharpDevelop Projects\Equacao-segundo-grau\caracteres_progressivos\obj\Debug\caracteres_progressivos.exe
+C:\Users\User\Documents\SharpDevelop Projects\Equacao-segundo-grau\caracteres_progressivos\obj\Debug\caracteres_progressivos.pdb
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\C#\caracteres_progressivos\obj\Debug\caracteres_progressivos.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\C#\caracteres_progressivos\obj\Debug\caracteres_progressivos.exe
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\C#\caracteres_progressivos\obj\Debug\caracteres_progressivos.pdb
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\C#\caracteres_progressivos\bin\Debug\caracteres_progressivos.exe.config
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\C#\caracteres_progressivos\bin\Debug\caracteres_progressivos.exe
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\C#\caracteres_progressivos\bin\Debug\caracteres_progressivos.pdb

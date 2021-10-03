@@ -1,0 +1,6 @@
+C:\Users\User\Documents\SharpDevelop Projects\Equacao-segundo-grau\Equacao-segundo-grau\bin\Debug\Equacao-segundo-grau.exe.config
+C:\Users\User\Documents\SharpDevelop Projects\Equacao-segundo-grau\Equacao-segundo-grau\bin\Debug\Equacao-segundo-grau.exe
+C:\Users\User\Documents\SharpDevelop Projects\Equacao-segundo-grau\Equacao-segundo-grau\bin\Debug\Equacao-segundo-grau.pdb
+C:\Users\User\Documents\SharpDevelop Projects\Equacao-segundo-grau\Equacao-segundo-grau\obj\Debug\Equacao-segundo-grau.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\SharpDevelop Projects\Equacao-segundo-grau\Equacao-segundo-grau\obj\Debug\Equacao-segundo-grau.exe
+C:\Users\User\Documents\SharpDevelop Projects\Equacao-segundo-grau\Equacao-segundo-grau\obj\Debug\Equacao-segundo-grau.pdb

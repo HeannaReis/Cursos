@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\C#\Curso-Dotnet\bin\Debug\net5.0\Curso-Dotnet.exe
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\C#\Curso-Dotnet\bin\Debug\net5.0\Curso-Dotnet.deps.json
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\C#\Curso-Dotnet\bin\Debug\net5.0\Curso-Dotnet.runtimeconfig.json
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\C#\Curso-Dotnet\bin\Debug\net5.0\Curso-Dotnet.runtimeconfig.dev.json
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\C#\Curso-Dotnet\bin\Debug\net5.0\Curso-Dotnet.dll
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\C#\Curso-Dotnet\bin\Debug\net5.0\ref\Curso-Dotnet.dll
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\C#\Curso-Dotnet\bin\Debug\net5.0\Curso-Dotnet.pdb
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\C#\Curso-Dotnet\obj\Debug\net5.0\Curso-Dotnet.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\C#\Curso-Dotnet\obj\Debug\net5.0\Curso-Dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\C#\Curso-Dotnet\obj\Debug\net5.0\Curso-Dotnet.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\C#\Curso-Dotnet\obj\Debug\net5.0\Curso-Dotnet.AssemblyInfo.cs
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\C#\Curso-Dotnet\obj\Debug\net5.0\Curso-Dotnet.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\C#\Curso-Dotnet\obj\Debug\net5.0\Curso-Dotnet.dll
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\C#\Curso-Dotnet\obj\Debug\net5.0\ref\Curso-Dotnet.dll
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\C#\Curso-Dotnet\obj\Debug\net5.0\Curso-Dotnet.pdb
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\C#\Curso-Dotnet\obj\Debug\net5.0\Curso-Dotnet.genruntimeconfig.cache
