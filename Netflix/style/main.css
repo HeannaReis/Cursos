@@ -21,8 +21,7 @@ header .container{
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
-	margin-left: 40px;
-    
+	margin-left: 40px;   
 }
 
 header .logo{
@@ -44,7 +43,6 @@ header nav a{
     color:#AAA;
     margin-right: 10px;
 }
-
 
 header nav a:hover{
     color:#fff;
@@ -86,7 +84,6 @@ header nav a:hover{
     padding:15px 30px;
     margin-right: 15px;
     font-size: 12px;
-
     cursor: pointer;
     transition: .3s ease all;
 }
@@ -100,20 +97,12 @@ header nav a:hover{
     margin-right: 8px;
 }
 
-
 .container{
     margin-left: 20px;
 }
 
 .filme-principal .container{
     width: 70%;
-}
-
-.box-filme{
-    height: 100%;
-    width: 100%;
-    display: block;
-    cursor: pointer;
 }
 
 .carrosel-filmes{
@@ -126,8 +115,10 @@ header nav a:hover{
     display: block;
     border: 2px solid transparent;
     transition: border 0.3s;
+	cursor: pointer;
   }
-  .box-filme:hover {
+  
+.box-filme:hover {
     border: 2px solid white;
     cursor: pointer;
   }

@@ -14,7 +14,7 @@ namespace Revisao
             {
                 switch (opcaoUsuario)
                 {
-                    case "1":
+                    case "1":y
                         Console.WriteLine("Informe o nome do aluno:");
                         var aluno = new Aluno();
                         aluno.Nome = Console.ReadLine();

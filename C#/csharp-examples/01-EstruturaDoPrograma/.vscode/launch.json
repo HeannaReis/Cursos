@@ -4,6 +4,17 @@
    // For further information visit https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger-launchjson.md
    "version": "0.2.0",
    "configurations": [
+       {
+           "type": "cscs",
+           "request": "launch",
+           "name": "CSCS Launch",
+           "program": "${workspaceFolder}/${command:RunLocal}",
+           "stopOnEntry": true,
+           "connectType": "sockets",
+           "serverPort": 13337,
+           "serverHost": "127.0.0.1",
+           "serverBase": ""
+       },
         {
             "name": ".NET Core Launch (console)",
             "type": "coreclr",
