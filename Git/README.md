@@ -1,3 +1,4 @@
+![Comandos Git](https://github.com/HeannaReis/Cursos/blob/master/Git/Comandos%20git.jpg?raw=true)
 # GIT
 
 ## Estados
