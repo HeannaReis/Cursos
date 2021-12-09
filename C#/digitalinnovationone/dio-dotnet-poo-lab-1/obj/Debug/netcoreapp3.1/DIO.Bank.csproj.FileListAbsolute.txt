@@ -25,3 +25,17 @@ C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\C#\digitalinnovationone\dio
 C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\C#\digitalinnovationone\dio-dotnet-poo-lab-1\obj\Debug\netcoreapp3.1\DIO.Bank.dll
 C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\C#\digitalinnovationone\dio-dotnet-poo-lab-1\obj\Debug\netcoreapp3.1\DIO.Bank.pdb
 C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\C#\digitalinnovationone\dio-dotnet-poo-lab-1\obj\Debug\netcoreapp3.1\DIO.Bank.genruntimeconfig.cache
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\Cursos\C#\digitalinnovationone\dio-dotnet-poo-lab-1\bin\Debug\netcoreapp3.1\DIO.Bank.exe
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\Cursos\C#\digitalinnovationone\dio-dotnet-poo-lab-1\bin\Debug\netcoreapp3.1\DIO.Bank.deps.json
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\Cursos\C#\digitalinnovationone\dio-dotnet-poo-lab-1\bin\Debug\netcoreapp3.1\DIO.Bank.runtimeconfig.json
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\Cursos\C#\digitalinnovationone\dio-dotnet-poo-lab-1\bin\Debug\netcoreapp3.1\DIO.Bank.runtimeconfig.dev.json
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\Cursos\C#\digitalinnovationone\dio-dotnet-poo-lab-1\bin\Debug\netcoreapp3.1\DIO.Bank.dll
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\Cursos\C#\digitalinnovationone\dio-dotnet-poo-lab-1\bin\Debug\netcoreapp3.1\DIO.Bank.pdb
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\Cursos\C#\digitalinnovationone\dio-dotnet-poo-lab-1\obj\Debug\netcoreapp3.1\DIO.Bank.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\Cursos\C#\digitalinnovationone\dio-dotnet-poo-lab-1\obj\Debug\netcoreapp3.1\DIO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\Cursos\C#\digitalinnovationone\dio-dotnet-poo-lab-1\obj\Debug\netcoreapp3.1\DIO.Bank.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\Cursos\C#\digitalinnovationone\dio-dotnet-poo-lab-1\obj\Debug\netcoreapp3.1\DIO.Bank.AssemblyInfo.cs
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\Cursos\C#\digitalinnovationone\dio-dotnet-poo-lab-1\obj\Debug\netcoreapp3.1\DIO.Bank.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\Cursos\C#\digitalinnovationone\dio-dotnet-poo-lab-1\obj\Debug\netcoreapp3.1\DIO.Bank.dll
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\Cursos\C#\digitalinnovationone\dio-dotnet-poo-lab-1\obj\Debug\netcoreapp3.1\DIO.Bank.pdb
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\Cursos\C#\digitalinnovationone\dio-dotnet-poo-lab-1\obj\Debug\netcoreapp3.1\DIO.Bank.genruntimeconfig.cache

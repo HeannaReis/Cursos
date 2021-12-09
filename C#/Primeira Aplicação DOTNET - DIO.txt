@@ -1,0 +1,37 @@
+====================================================
+CURSO MVC - DIO - BOOTCAMP TAKE BLIP2
+====================================================
+
+Criando aplicação MVC.
+
+*** Instalando pacotes para o projeto (Instalado essa vesão pois versão Default deu erro.)
+
+Install-Package Microsoft.EntityFrameworkCore.SqlServer -Version 5.0.12
+Install-Package Microsoft.EntityFrameworkCore.Tools -Version 5.0.12	
+
+
+*** Caminho para indicar no banco de dados.
+@"Server=(localdb)\mssqllocaldb;Database=CursoMVC;Integrated Security=True");
+
+comando completo.
+optionsBuilder.UseSqlServer(connectionString:@"Server=(localdb)\mssqllocaldb;Database=CursoMVC;Integrated Security=True");
+
+*** Executando Migrate da aplicação.
+Add-Migration InitialCreate
+
+*** Adicionando o Swagger ao projeto
+public void ConfigureServices(IServiceCollection services)
+services.AddSwaggerGen(c => { c.SwaggerDoc("v1", new OpenApiInfo { Title = "CursoAPI", Version = "v1" }); });
+
+
+***incluir no método
+ public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+
+ app.UseSwagger();
+ app.UseSwaggerUI(c => { c.SwaggerEndpoint("/swagger/v1/swagger.json", "CursoAPI"); });
+	
+	
+
+
+
+
