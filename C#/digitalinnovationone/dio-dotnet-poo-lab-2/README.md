@@ -1,3 +1,3 @@
 # Digital Innovation One - Prática .NET
 
-## Criando uma APP de cadastro em memória.
+## Criando uma APP de cadastrode séries em memória.

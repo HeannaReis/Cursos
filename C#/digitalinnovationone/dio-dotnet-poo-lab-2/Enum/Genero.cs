@@ -14,6 +14,7 @@ namespace DIO.Series
 		Musical = 10,
 		Romance = 11,
 		Suspense = 12,
-		Terror = 13
+		Terror = 13,
+		Infantil = 14,
 	}
 }

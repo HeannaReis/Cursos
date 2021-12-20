@@ -11,3 +11,17 @@
 /home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.dll
 /home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.pdb
 /home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.genruntimeconfig.cache
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\Cursos\C#\digitalinnovationone\dio-dotnet-poo-lab-2\bin\Debug\netcoreapp3.1\DIO.Series.exe
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\Cursos\C#\digitalinnovationone\dio-dotnet-poo-lab-2\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\Cursos\C#\digitalinnovationone\dio-dotnet-poo-lab-2\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\Cursos\C#\digitalinnovationone\dio-dotnet-poo-lab-2\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\Cursos\C#\digitalinnovationone\dio-dotnet-poo-lab-2\bin\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\Cursos\C#\digitalinnovationone\dio-dotnet-poo-lab-2\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\Cursos\C#\digitalinnovationone\dio-dotnet-poo-lab-2\obj\Debug\netcoreapp3.1\DIO.Series.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\Cursos\C#\digitalinnovationone\dio-dotnet-poo-lab-2\obj\Debug\netcoreapp3.1\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\Cursos\C#\digitalinnovationone\dio-dotnet-poo-lab-2\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\Cursos\C#\digitalinnovationone\dio-dotnet-poo-lab-2\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\Cursos\C#\digitalinnovationone\dio-dotnet-poo-lab-2\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\Cursos\C#\digitalinnovationone\dio-dotnet-poo-lab-2\obj\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\Cursos\C#\digitalinnovationone\dio-dotnet-poo-lab-2\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Users\User\Desktop\Estudos\EstudoTI\Cursos\Cursos\Cursos\C#\digitalinnovationone\dio-dotnet-poo-lab-2\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
